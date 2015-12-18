@@ -9,6 +9,8 @@
    app.quit();
  });
 
+app.setPath("userData", __dirname + "/zFacebookUserProfile");
+
  app.on('ready', function() {
   mainWindow = new BrowserWindow({
    width: 700,
