@@ -14,7 +14,7 @@ app.setPath("userData", __dirname + "/zFacebookUserProfile");
  app.on('ready', function() {
   mainWindow = new BrowserWindow({
    width: 700,
-   height: 850,
+   height: 860,
    resizable: true,
    title: "zFacebook",
    icon: "/zFacebook.icns",
