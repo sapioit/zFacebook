@@ -1,6 +1,9 @@
-# zFacebook
-A facebook messenger for [Electron](https://github.com/atom/electron). Written in [Electron](https://github.com/atom/electron).
+[![Join the chat at gitter.im/sapioit/zFacebook](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/sapioit/zFacebook?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
+# zFacebook
+
+Bring the [Facebook Messenger](http://messenger.com) to your desktop.
+A facebook messenger client for OS X, Windows and Linux. Written in [Electron](https://github.com/atom/electron). Not affiliated with Facebook.
 
 
 ## Versioning
@@ -17,6 +20,12 @@ Constructed with the following guidelines:
 * A new *minor* release indicates a normal change that maintains backward compatibility.
 * A new *patch* release indicates a bugfix or small change which does not affect compatibility.
 * A new *build* release indicates this is a pre-release of the version.
+
+
+## Contributions
+
+Contributions are welcome! For feature requests and bug reports please [submit an issue](https://github.com/sapioit/zFacebook/issues).
+
 
 # Licence
 
