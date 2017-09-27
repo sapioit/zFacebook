@@ -1,5 +1,5 @@
 [![Join the chat at gitter.im/sapioit/zFacebook](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/sapioit/zFacebook?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge) [![Gitter](https://badges.gitter.im/sapioit/zFacebook.svg)](https://gitter.im/sapioit/zFacebook?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=body_badge)
-# zFacebook
+# zFacebook [![No Maintenance Intended](http://unmaintained.tech/badge.svg)](http://unmaintained.tech/)
 
 Bring the [Facebook Messenger](http://messenger.com) to your desktop.
 A facebook messenger client for OS X, Windows and Linux. Written in [Electron](https://github.com/atom/electron). Not affiliated with Facebook.
